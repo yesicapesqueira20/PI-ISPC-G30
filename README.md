@@ -20,3 +20,7 @@ https://github.com/Lourdes00
 Yesica Pesqueira,
 Yesica.Pesqueira@gmail.com |
 https://github.com/yesicapesqueira20
+
+Análisis y Descripción de la Propuesta de Proyecto:
+
+Desarrollar una app básica y simple para una institución educativa, en donde cada alumno puede gestionar su cuenta académica (inscribirse a distintas materias y ver sus notas, evolución, interactuar con docentes y compañeros, etc).
