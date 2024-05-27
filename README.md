@@ -1,9 +1,12 @@
 # PI-ISPC-G30
 Proyecto integrador ISPC 2024 - Grupo G30.
 
+Creamos una app para instituciones escolares, que busca aunar datos personales y académicos, tanto de estudiantes como de profesores, a los fines de homogeneizar la fuente de información para todos los agentes.
+
 Maria Celeste Montivero,	
 celemontivero2@gmail.com |
 https://github.com/MaCelMon	
+30.331.023
 
 Pablo Javier Vaz Torres,	
 p.j.vaztorres@gmail.com	|
