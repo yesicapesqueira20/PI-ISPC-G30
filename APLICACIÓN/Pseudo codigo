@@ -1,0 +1,32 @@
+Algoritmo register
+	Escribir "Nro Dni"
+	Leer Dni
+	Escribir "Clave de acceso"
+	Leer clave
+	Si Dni=BD Entonces
+//		BD=busca el DNI en el registro de datos
+//      BC=verifica la clave asignada al DNI
+		Si clave=BC Entonces
+			Escribir "cargando"
+			//ejecuta el void principal
+		SiNo
+			Escribir "clave incorrecta"
+		Fin Si
+	SiNo
+		Escribir "Documento no encontrado, verifique si creo una cuenta"
+	Fin Si
+FinAlgoritmo
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo principal
+    Escribir "Carreras"
+	Escribir "Sobre nosotros"
+	Escribir "informacion de contacto"
+	Si DocumentacionCompleta=false Entonces
+		escribir "se requiere que complete la informacion"
+		Escribir "Nombre, Apellido, Dni, Email, Edad, Localidad"
+		Leer Documentacion
+		//	esto seria como un cartel emergente al iniciar la pagina por primera ves	
+	Fin Si
+	
+FinAlgoritmo
