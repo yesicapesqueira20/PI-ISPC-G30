@@ -13,3 +13,4 @@ class Cconexion
 
         except mysql.connector.Error as error
             print("error al conectar bd")
+            
